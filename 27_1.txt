@@ -3,3 +3,4 @@ This is a cat.
 I like car.
 My first test.
 Use GUI.
+Sharing imformation feels funny.
